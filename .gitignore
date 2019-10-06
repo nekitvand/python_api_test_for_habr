@@ -1,0 +1,10 @@
+.idea
+.pytest_cache
+Tests/.pytest_cache
+App/__pytest_cache__
+Tests/__pytest_cache__
+__pytest_cache__
+.test_log.log
+Tests/__pycache__/
+App/__pycache__/
+ __pycache__/
